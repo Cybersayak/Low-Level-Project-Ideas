@@ -1,4 +1,4 @@
- **Low-level project ideas** in JavaScript/TypeScript that will help you build a **rock-solid foundation** in backend systems and Node.js, and eventually master the art of backend engineering.
+ # **Low-level Backend Project ideas** in JavaScript to build a Strong foundation in backend systems
 
 ---
 

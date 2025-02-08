@@ -1,4 +1,4 @@
-To build a strong foundation in frontend engineering and gain in-depth knowledge of JavaScript (JS) and TypeScript (TS) .Below are some project ideas that will help you master the fundamentals and eventually become proficient in frontend engineering:
+# **Low-level project ideas** that will take Frontend skills to the next level:
 
 ---
 

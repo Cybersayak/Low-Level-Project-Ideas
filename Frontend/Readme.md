@@ -1,4 +1,4 @@
-Here are several low-level project ideas in JavaScript and TypeScript that will help you build a strong foundation in frontend system design by understanding core concepts of JavaScript, frontend systems, and the strengths of TypeScript:
+# **Low-level project ideas** that will take Frontend understanding to the next level:
 
 ---
 

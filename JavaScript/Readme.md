@@ -1,4 +1,4 @@
-Here are some project ideas that will help you explore JavaScript in depth and become a "JavaScript God":
+# **Low-level project ideas** that will take JavaScript skills to the next level:
 
 ---
 
