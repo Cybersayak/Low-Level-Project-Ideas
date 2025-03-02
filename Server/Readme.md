@@ -1,4 +1,4 @@
- # **Low-level Backend Project ideas** in JavaScript to build a Strong foundation in backend systems
+ # **Low-level Backend Project ideas** to build a Strong foundation in Backend Systems
 
 
 ### 1. **Build Your Own HTTP Server**

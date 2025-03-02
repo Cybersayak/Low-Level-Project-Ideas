@@ -1,4 +1,5 @@
-# **Low-level project ideas** that will take Frontend skills to the next level:
+# **Low-level project ideas** that will build Frontend Skills , to have a Strong foundation in Backend Systems
+
 
 ---
 
@@ -673,4 +674,3 @@
 
 --- 
 
-This revised list ensures that each project is distinct and offers unique learning opportunities.
