@@ -1,5 +1,4 @@
-If you want to dive deep into C++ and truly master the language, working on low-level projects is a great way to achieve that. These projects will help you understand memory management, pointers, object-oriented programming, templates, and other advanced C++ features. Here are some challenging and educational low-level project ideas:
-
+# **Low Level C++ Projects**
 ---
 
 ### **1. Custom Memory Allocator**
