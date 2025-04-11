@@ -1,4 +1,4 @@
-# **Low-level project ideas** that will build Frontend Skills , to have a Strong foundation in Backend Systems
+# **Low-level project ideas** that will build Frontend Skills , to have a Strong foundation in Frontend of Systems
 
 
 ---
